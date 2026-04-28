@@ -38,8 +38,6 @@ Os códigos estão organizados por temas e conteúdos abordados em aula:
 Este repositório será atualizado continuamente conforme avanço nos estudos, incorporando novos conceitos e desafios.
 
 
-## 👤 Autor
+## 👨‍💻 Autor
 
-Matheus  
-Estudante de Ciências da Computação na Universidade São Judas Tadeu  
-Foco em desenvolvimento e transição para área de tecnologia
+Desenvolvido por Matheus Henrique como projeto de estudos de conceitos de lógica de programação em Java
