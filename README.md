@@ -13,7 +13,7 @@ Além disso, serve como apoio para revisões futuras e como portfólio inicial n
 ## 🛠️ Tecnologias utilizadas
 
 - Java
-- IDE (NetBeans / IntelliJ)
+- IDE (NetBeans)
 
 
 ## 📂 Estrutura do repositório
