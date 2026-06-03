@@ -20,6 +20,7 @@ Além disso, serve como apoio para revisões futuras e como portfólio inicial n
 
 Os códigos estão organizados por temas e conteúdos abordados em aula:
 
+- POO
 - Arrays e matrizes
 - Desvio condicional
 - Estruturas de repetição
@@ -31,6 +32,7 @@ Os códigos estão organizados por temas e conteúdos abordados em aula:
 - Ordenação (ex: Bubble Sort)
 - Operações com matrizes
 - Sistemas simples via console
+- Aplicação dos conceitos de POO: classes, encapsulamento, métodos e arrays.
 
 
 ## 📈 Evolução
